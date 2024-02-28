@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/jpg" href="icon/icon.png"/>
+    <link rel="stylesheet" href="CSS/css_breakingbad.css">
+    <title>Tabla</title>
+</head>
+<body class="tabla">
+
+    <img  align="center" src="img/cabecera.png" alt="Cabecera de la serie">
+
+
+<table align="center" border=5px class="tablas">
+
+<tr>
+    <td class="walter"  rowspan="2"> <img class="walter" src="/BreakingJA/img/Tabla Periódica/walterwhite.png" alt="walter"><h1>w</h1>Walter White</td>
+    <td id="negro" rowspan="1" ></td>
+    <td id="negro"  rowspan="2"></td>
+    <td id="negro"  rowspan="2"></td>
+    <td id="negro"   rowspan="2"></td>
+    <td id="negro" rowspan="2"></td>
+    <td id="negro" ></td>
+    <td id="negro" ></td>
+    <td id="negro" ></td>
+    <td  id="negro" ></td>
+    <td class="brown"><h1><b>DE</b></h1> Don Eladio</td>
+</tr>
+
+<tr width="50px" height="50px">
+    <td class="verdoso" rowspan="2"> <img id="hank" src="img/Tabla Periódica/hankschrader.png" alt="hank"></td>
+    <td class="pistacho" rowspan="2"><h1><b>He</b></h1>Hector Salamanca<img src="img/Tabla Periódica/hectorsalamanca.png" alt="Hector"> </td>
+    <td class="pistacho" rowspan="2"><h1><b>Ts</b></h1>Tuco Salamanca<img src="img/Tabla Periódica/tucosalamanca.png" alt="Tuco"> </td>
+    <td class="gris" rowspan="2" ><h1><b>G</b></h1> Gustavo Fring <img src="img/Tabla Periódica/gustavofrink.png" alt="Gustavo"></td>
+    <td class="gris "><h1><b>Ty</b></h1> Tyrus Kitt</td>
+    <td class="brown"><h1><b>Ju</b></h1>Juan Bolsa</td>
+</tr>
+
+<tr>
+    <td class="walter" rowspan="2"><h1>Sk</h1> Skyler White<img src="/BreakingJA/img/Tabla Periódica/skylerwhite.png" alt="skyler"></td>
+    <td class="blanco"><h1>St</h1> Steven Gómez</td>
+    <td class="verdeoscuro" rowspan="2"><h1>Sa</h1> Saul Goodman <img src="/BreakingJA/img/Tabla Periódica/saulgoodman.png" alt="saul"></td>
+    <td class="verdeoscuro" rowspan="2"><h1>J</h1> Jessie Pinkman <img src="/BreakingJA/img/Tabla Periódica/jessiepinkman.png" alt="jessie"></td>
+    <td class="verdedark"><h1>SP</h1>Skinny Pete</td>
+    <td class="gris" rowspan="2"><h1><b>Ga</b></h1>Gale Boetccher<img id="galetaza" src="/BreakingJA/img/Tabla Periódica/gale.png" alt="Gale"></td>
+    <td class="brown"><h1><b>To</b></h1> El Tortuga</td>
+</tr>
+
+<tr>
+    <td class="morao" rowspan="2"><h1>Ma</h1>Marie <img src="/BreakingJA/img/Tabla Periódica/marieschrader.png" alt=""></td>
+    <td class="blanco"  ><h1><b>Ra</b></h1> SAC Ramey</td>
+    <td class="verdedark" rowspan="2"><h1><b>Bg</b></h1> Badger <img src="/BreakingJA/img/Tabla Periódica/badger.png" alt="badger"></td>
+    <td class="pistacho" ><h1><b>Ls</b></h1>Leonel Salamanca</td>
+    <td class="pistacho" ><h1><b>Ms</b></h1>Marco Salamanca</td>
+    <td class="gris" rowspan="2"><h1><b>M</b></h1>Mike Ehrmantraut <img src="/BreakingJA/img/Tabla Periódica/mike.png" alt="Mike"></td>
+    <td class="brown" ><h1><b>Gf</b></h1> Gaff</td>
+</tr>
+
+
+<tr>
+    <td class="walter" ><h1><b>WJ</b></h1> Walter Junior</td>
+    <td class="blanco"  ><h1><b>Ge</b></h1> SAC George Merkert</td>
+    <td class="verdeoscuro" ><b><h1>Hu</h1></b> Hugo </td>
+    <td class="verdeoscuro" ><b><h1>OJ</h1></b>Old Joe</td>
+    <td class="verdedark"><h1><b>K8</b></h1>Krazy-8</td>
+    <td class="pistacho" ><h1><b>ND</b></h1>No-Doze</td>
+    <td class="gris">VI</td>
+    <td class="gris"><h1><b>Ly</b></h1>Lydia Rodarte-Quayle</td>
+</tr>
+
+<tr>
+    <td class="walter"><h1><b>Ho</b></h1> Holly White</td>
+    <td class="beige"><h1><b>Te</b></h1> Ted Beneke</td>
+    <td class="blanco"  ><h1><b>Ti</b></h1> Tim Roberts</td>
+    <td class="verdeoscuro" ><b><h1>Ku</h1></b>Kurby</td>
+    <td class="verdeoscuro" ><b><h1>La</h1></b>Lawyer</td>>
+    <td class="verdedark" ><h1><b>Co</b></h1>Coalgo</td>
+    <td class="verdedark"><h1><b>K8</b></h1>Krazy-8</td>
+    <td class="pistacho" ><h1><b>ND</b></h1>No-Doze</td>
+    <td class="gris">Mx</td>
+    <td class="gris">De</td>
+    <td class="gris" ><h1><b>Da</b></h1>Dan Wachsberger</td>
+</tr>
+
+<tr>
+    <td class="beige"><h1><b>El</b></h1>Elliott Schwartz</td>
+    <td class="beige"><h1><b>Bo</b></h1> Bogdan Wolynetz</td>
+    <td class="beige"><h1>Hg</h1>Hugo Archuleta</td>
+    <td class="beige" ><b><h1>Mr</h1></b>Mr Pinkman</td>
+    <td class="verdeoscuro" ><b><h1>TO</h1></b>Todd</td>
+    <td class="verdedark"><h1><b>K8</b></h1>Krazy-8</td>
+    <td class="verdedark"><h1><b>K8</b></h1>Krazy-8</td>
+    <td class="beige"><b><h1>Lo</h1></b>Logés</td>
+    <td class="gris">Ch</td>
+    <td class="gris">Du</td>
+    <td class="beige"><h1><b>Sp</b></h1> Spooge </td>
+</tr>
+
+
+<tr>
+
+
+</table>
+</body>
+</html>
